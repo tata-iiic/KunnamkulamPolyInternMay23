@@ -28,7 +28,7 @@
 21. [SHABEEBA.P](https://github.com/shabeeba2003/10_Days_Internship/blob/main/index.md)
 22. [SHINTO P S](https://github.com/2003SHINTO/10-day-internship/blob/main/day1/index.md)
 23. [VIVEK M R](https://github.com/vivek445566123/internship/blob/main/internship10days.md)
-24. ANILJITH A J
+24. [ANILJITH A J](https://github.com/ajaniljith/internship/blob/main/index.md)
 25. ADHITH K JAYADAS
 26. [CHRISTIN VARGHESE](https://github.com/Christin-chris/chris/blob/main/property2.md)
 27. JOEL JOHNSON P
