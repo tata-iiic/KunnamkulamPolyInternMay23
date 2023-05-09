@@ -6,10 +6,10 @@
 ## List of Participants
 
 1. [ABHIJITH V B](https://github.com/Abhijithbas/INTERNSHIP/edit/main/index.md)
-2. AMAL P G
+2. [AMAL P G](https://github.com/Amalpgsreekuttan/internship1/blob/main/index.md)
 3. AMEESH ILLIAS M V
 4. [ANANTHA KRISHNAN P.V](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/internship.md)
-5. ASWIN P S
+5. [ASWIN P S](https://github.com/aswinkichuzzz/kichuzzz/blob/main/kunnamkkulam.md)
 6. [ASWIN.V.U](https://github.com/aswinunn/INTERNSHIP/blob/main/index.md)
 7. [ATHUL.P.RAJEEV](https://github.com/rajeevathul33/athulp/blob/main/kunnamkulam.md)
 8. [DAKSH AJITH](https://github.com/dakshajith/daksh/blob/main/daksh.md)
