@@ -31,7 +31,7 @@
 24. [ANILJITH A J](https://github.com/ajaniljith/internship/blob/main/index.md)
 25. [ADHITH K JAYADAS](https://github.com/Adhithkjayadas/internship-10-days/blob/main/index.md)
 26. [CHRISTIN VARGHESE](https://github.com/Christin-chris/chris/blob/main/property2.md)
-27. JOEL JOHNSON P(https://github.com/joyalpj573/internship/blob/main/INDEX.MD)
+27. [JOEL JOHNSON P](https://github.com/joyalpj573/internship/blob/main/INDEX.MD)
 28. [KRISHNAPRASAD K](https://github.com/kpr22102210/10-Days-internship/blob/main/index.md)
 29. [MUHAMMED SWABIR P I](https://github.com/SWABIRIBRAHIM/MUHAMMEDSWABIR/blob/main/internship.md)
 
