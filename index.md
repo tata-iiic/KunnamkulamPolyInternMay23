@@ -38,3 +38,5 @@
 ## Trainers
 1. [Er. Jinesh K J](https://github.com/jineshkjose)
 2. Er. C Sumesh
+
+## [Attendance](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTx0Di4m1fZ0Gcq3KjZ0Rl8shIJrtxSeWD2FdmtIAWtdns1msvL98_pXGyzBSQ4g/pubhtml?gid=1274052376&single=true)
