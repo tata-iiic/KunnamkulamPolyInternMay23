@@ -7,7 +7,7 @@
 
 1. [ABHIJITH V B](https://github.com/Abhijithbas/INTERNSHIP/edit/main/index.md)
 2. [AMAL P G](https://github.com/Amalpgsreekuttan/internship1/blob/main/index.md)
-3. [AMEESH ILLIAS M V](https://github.com/ameeshilliasmv/internship/blob/main/internship.md)
+3. [AMEESH ILLIAS M V](https://github.com/ameeshilliasmv/intership/blob/main/day1.md)
 4. [ANANTHA KRISHNAN P.V](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/internship.md)
 5. [ASWIN P S](https://github.com/aswinkichuzzz/kichuzzz/blob/main/kunnamkkulam.md)
 6. [ASWIN.V.U](https://github.com/aswinunn/INTERNSHIP/blob/main/index.md)
