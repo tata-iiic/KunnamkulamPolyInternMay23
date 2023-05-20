@@ -40,3 +40,7 @@
 2. Er. C Sumesh
 
 ## [Attendance](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTx0Di4m1fZ0Gcq3KjZ0Rl8shIJrtxSeWD2FdmtIAWtdns1msvL98_pXGyzBSQ4g/pubhtml?gid=1274052376&single=true)
+
+## [Report](https://drive.google.com/file/d/1QJGJcF4i4oAj_HLjbwpadxKXb2rIZUjJ/view?usp=sharing)
+
+## [Feedback and Assignment Submission](https://docs.google.com/forms/d/e/1FAIpQLSegVFiVRjT_7wafa2tkWyDpgsK3I8_w_14HLV9jFPIMYM25Jw/viewform)
