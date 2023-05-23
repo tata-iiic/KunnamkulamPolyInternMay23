@@ -46,3 +46,5 @@
 ## [Feedback and Assignment Submission](https://docs.google.com/forms/d/e/1FAIpQLSegVFiVRjT_7wafa2tkWyDpgsK3I8_w_14HLV9jFPIMYM25Jw/viewform)
 
 ## [Certificate](https://github.com/tata-iiic/KunnamkulamPolyInternMay23/blob/main/2023-013%202%20Week%20Internship%20GPTC%20Kunnamkulam.pdf)
+
+## [Photos & Videos](https://drive.google.com/drive/folders/1vzWGs922Zvc6EkFC21rhiWrLmSDG5bf-?usp=share_link)
